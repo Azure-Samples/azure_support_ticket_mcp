@@ -40,7 +40,7 @@ sha2 = "0.10"
 base64 = "0.22"
 async-trait = "0.1"
 clap = { version = "4", features = ["derive"] }
-rmcp = { version = "1.7", default-features = false, features = ["server", "macros", "transport-io", "schemars"] }
+rmcp = { version = "2.1", default-features = false, features = ["server", "macros", "transport-io", "schemars"] }
 schemars = "1"
 once_cell = "1"
 parking_lot = "0.12"
